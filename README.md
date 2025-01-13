@@ -1,4 +1,4 @@
-Crime Data Analysis Project
+Crime Data Analysis Project:
 This project analyzes crime data, groups the data by NCIC code ranges, districts, and beats, and visualizes the results. The project includes functionalities to read crime data from CSV files, generate crime reports, create JSON files of the results, and display bar charts for specified NCIC codes.
 
 Getting Started
